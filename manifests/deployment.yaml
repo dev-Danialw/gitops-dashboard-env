@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: dashboard
-        image: us-central1-docker.pkg.dev/gitops-dashboard-1777657343/docker-images/dashboard:a293c04
+        image: us-central1-docker.pkg.dev/gitops-dashboard-1777657343/docker-images/dashboard:6d16717
         ports:
         - containerPort: 8080
         env:
